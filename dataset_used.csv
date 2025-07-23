@@ -1,0 +1,251 @@
+Age,Gender,Education,Job Role,Years of Experience,Workclass,Marital Status,Relationship,Race,Salary
+58,Female,Masters,HR,14,Public,Single,Wife,Black,34703
+48,Male,PhD,Software Engineer,24,Public,Single,Husband,White,95128
+34,Female,Bachelors,Software Engineer,2,Public,Married,Own-child,Black,102099
+27,Female,Masters,Software Engineer,13,Public,Married,Not-in-family,Asian-Pac-Islander,55849
+40,Male,Bachelors,Software Engineer,26,Private,Single,Husband,Asian-Pac-Islander,61860
+58,Male,Bachelors,Data Analyst,14,Self-employed,Married,Not-in-family,Black,61585
+38,Male,Masters,Software Engineer,27,Public,Married,Not-in-family,White,52015
+42,Male,Bachelors,Data Analyst,24,Private,Married,Husband,White,107539
+30,Female,PhD,Data Analyst,19,Public,Married,Not-in-family,Black,73585
+30,Female,Bachelors,Software Engineer,7,Public,Single,Own-child,Black,56958
+43,Female,Masters,Software Engineer,3,Private,Single,Not-in-family,Asian-Pac-Islander,56017
+55,Female,Masters,Manager,15,Self-employed,Married,Own-child,White,106707
+59,Female,Masters,HR,23,Self-employed,Single,Own-child,Black,75350
+43,Female,Bachelors,Software Engineer,14,Private,Single,Own-child,White,42201
+22,Male,Masters,Manager,11,Self-employed,Single,Wife,Black,59426
+41,Female,Masters,Manager,15,Private,Married,Not-in-family,Black,47778
+21,Male,Bachelors,HR,28,Private,Married,Husband,White,75241
+43,Male,PhD,Data Analyst,13,Private,Married,Husband,Black,72229
+49,Female,Bachelors,Software Engineer,18,Self-employed,Single,Not-in-family,Black,116652
+57,Male,Masters,HR,26,Private,Married,Wife,Asian-Pac-Islander,148402
+21,Female,Masters,Software Engineer,6,Public,Married,Wife,Black,78364
+40,Male,Bachelors,Manager,3,Self-employed,Single,Own-child,Black,128833
+52,Female,PhD,Manager,19,Self-employed,Married,Not-in-family,Black,114878
+31,Male,Masters,Data Analyst,15,Self-employed,Married,Not-in-family,Asian-Pac-Islander,87056
+41,Female,Masters,Manager,25,Self-employed,Single,Husband,White,57490
+44,Female,Masters,Manager,23,Public,Single,Not-in-family,Asian-Pac-Islander,49975
+46,Female,Bachelors,HR,5,Self-employed,Single,Wife,Asian-Pac-Islander,56723
+47,Female,Masters,Software Engineer,28,Self-employed,Married,Not-in-family,White,53279
+35,Female,PhD,Software Engineer,10,Private,Married,Husband,Asian-Pac-Islander,108301
+34,Male,Masters,HR,7,Self-employed,Married,Own-child,White,142214
+22,Male,Masters,Data Analyst,25,Public,Single,Husband,Asian-Pac-Islander,41561
+56,Male,PhD,Software Engineer,17,Public,Single,Husband,White,137435
+26,Female,Masters,Manager,7,Public,Married,Own-child,Black,96061
+40,Male,Bachelors,Software Engineer,22,Public,Married,Husband,Asian-Pac-Islander,118397
+28,Female,Bachelors,Manager,26,Self-employed,Single,Husband,Asian-Pac-Islander,79153
+58,Female,Bachelors,Data Analyst,12,Self-employed,Single,Not-in-family,Asian-Pac-Islander,63142
+37,Male,PhD,HR,25,Public,Single,Not-in-family,Asian-Pac-Islander,56916
+23,Male,Masters,Software Engineer,17,Public,Single,Own-child,Black,94324
+44,Female,Bachelors,HR,13,Self-employed,Married,Not-in-family,Asian-Pac-Islander,74965
+33,Male,PhD,Software Engineer,20,Public,Single,Not-in-family,Black,34648
+28,Female,Masters,Manager,25,Private,Married,Husband,Black,65133
+45,Female,PhD,HR,4,Public,Married,Wife,Black,80677
+21,Female,Bachelors,Software Engineer,10,Public,Married,Not-in-family,Black,126059
+39,Female,Bachelors,Manager,3,Private,Single,Wife,White,124588
+47,Female,Bachelors,HR,9,Private,Single,Not-in-family,White,129950
+26,Male,PhD,HR,13,Self-employed,Single,Not-in-family,Asian-Pac-Islander,128317
+27,Male,PhD,Software Engineer,18,Self-employed,Single,Own-child,White,100135
+54,Female,Bachelors,Software Engineer,15,Private,Married,Own-child,White,65046
+33,Female,PhD,Software Engineer,4,Private,Single,Own-child,Asian-Pac-Islander,77064
+36,Male,Bachelors,Manager,15,Self-employed,Single,Wife,Asian-Pac-Islander,131459
+55,Male,Bachelors,Software Engineer,22,Public,Married,Husband,Asian-Pac-Islander,136625
+59,Female,Masters,HR,2,Private,Single,Not-in-family,White,99350
+23,Male,PhD,HR,15,Self-employed,Married,Not-in-family,White,75893
+21,Female,Bachelors,Software Engineer,8,Public,Married,Not-in-family,Asian-Pac-Islander,131520
+25,Male,Bachelors,Software Engineer,8,Private,Married,Wife,Black,91272
+23,Female,PhD,Data Analyst,17,Public,Married,Own-child,Asian-Pac-Islander,122152
+48,Male,Masters,HR,12,Self-employed,Married,Husband,Black,97649
+37,Female,Masters,Manager,19,Private,Married,Wife,Black,94674
+45,Male,Bachelors,Data Analyst,10,Public,Married,Own-child,Asian-Pac-Islander,149044
+53,Male,PhD,Software Engineer,9,Private,Married,Wife,Asian-Pac-Islander,138542
+29,Female,Masters,Software Engineer,5,Public,Single,Husband,Asian-Pac-Islander,43760
+55,Male,PhD,HR,6,Self-employed,Single,Own-child,White,51927
+33,Female,PhD,Software Engineer,20,Self-employed,Single,Wife,Black,116475
+50,Male,Bachelors,Manager,26,Private,Single,Husband,White,91367
+34,Female,Masters,HR,2,Public,Married,Not-in-family,White,127955
+27,Male,Bachelors,Software Engineer,27,Private,Single,Husband,Asian-Pac-Islander,42588
+33,Female,Masters,HR,24,Private,Married,Not-in-family,White,131678
+42,Male,Masters,Software Engineer,27,Public,Single,Wife,Asian-Pac-Islander,134734
+59,Female,Masters,Software Engineer,13,Public,Single,Own-child,Black,148154
+40,Male,Masters,Software Engineer,6,Public,Single,Own-child,Asian-Pac-Islander,82233
+35,Female,Masters,Manager,5,Self-employed,Married,Wife,White,74738
+37,Female,PhD,Manager,25,Private,Single,Own-child,White,63397
+43,Female,Bachelors,HR,1,Private,Married,Own-child,Asian-Pac-Islander,112189
+45,Male,PhD,Software Engineer,21,Self-employed,Married,Not-in-family,Asian-Pac-Islander,106367
+44,Female,Masters,Software Engineer,22,Public,Single,Wife,White,101260
+48,Male,Bachelors,Manager,21,Self-employed,Single,Husband,Black,106619
+34,Female,Masters,Software Engineer,6,Self-employed,Single,Not-in-family,Black,141453
+20,Male,Bachelors,Manager,6,Self-employed,Married,Wife,Asian-Pac-Islander,49816
+44,Female,PhD,Software Engineer,23,Private,Single,Not-in-family,Black,72240
+26,Male,Bachelors,HR,16,Self-employed,Married,Husband,White,36276
+28,Male,Bachelors,Software Engineer,4,Private,Married,Husband,Asian-Pac-Islander,143939
+43,Female,Bachelors,Software Engineer,11,Private,Single,Wife,White,134199
+20,Male,Bachelors,Data Analyst,24,Private,Single,Husband,White,109530
+27,Male,Bachelors,Manager,23,Public,Married,Not-in-family,Black,53499
+43,Female,Masters,Software Engineer,9,Private,Married,Husband,Asian-Pac-Islander,118576
+30,Male,Bachelors,Software Engineer,23,Private,Married,Not-in-family,Asian-Pac-Islander,138856
+36,Male,Bachelors,Data Analyst,3,Public,Single,Not-in-family,Black,112495
+27,Male,PhD,Data Analyst,19,Private,Married,Husband,White,101635
+54,Female,Bachelors,Manager,8,Self-employed,Single,Wife,White,137803
+54,Male,PhD,Data Analyst,5,Self-employed,Married,Own-child,White,115112
+52,Female,Masters,HR,4,Private,Married,Husband,White,65946
+24,Male,Bachelors,Data Analyst,24,Public,Single,Not-in-family,Asian-Pac-Islander,85204
+58,Male,PhD,HR,6,Self-employed,Married,Not-in-family,Asian-Pac-Islander,81886
+47,Male,PhD,Manager,2,Public,Single,Husband,Black,101652
+26,Female,Masters,Manager,20,Public,Single,Wife,Black,45563
+28,Male,Bachelors,Manager,28,Self-employed,Married,Wife,Asian-Pac-Islander,122324
+27,Male,Bachelors,Manager,11,Public,Single,Not-in-family,Asian-Pac-Islander,122464
+31,Female,PhD,Manager,4,Self-employed,Single,Not-in-family,White,131872
+53,Male,Bachelors,HR,15,Public,Married,Wife,White,39847
+52,Female,PhD,HR,6,Self-employed,Single,Own-child,Black,56155
+42,Female,Bachelors,Manager,22,Private,Single,Husband,Asian-Pac-Islander,109671
+43,Male,PhD,Data Analyst,17,Self-employed,Single,Not-in-family,Black,146891
+56,Female,Bachelors,Software Engineer,24,Self-employed,Married,Not-in-family,Asian-Pac-Islander,113310
+54,Male,Masters,Manager,6,Self-employed,Single,Wife,White,97278
+59,Female,Bachelors,Data Analyst,19,Self-employed,Married,Husband,Black,48309
+41,Female,Bachelors,Software Engineer,25,Public,Married,Wife,Black,30619
+46,Male,Masters,Manager,2,Private,Single,Husband,Asian-Pac-Islander,113194
+54,Female,Bachelors,Manager,15,Self-employed,Single,Husband,White,80108
+20,Female,Masters,HR,11,Public,Single,Husband,Black,64707
+54,Female,Bachelors,Software Engineer,8,Private,Married,Not-in-family,White,50337
+56,Female,PhD,Software Engineer,26,Private,Single,Own-child,Black,111537
+33,Female,PhD,Data Analyst,19,Private,Single,Wife,White,96504
+22,Male,Bachelors,HR,13,Private,Single,Own-child,Asian-Pac-Islander,77614
+20,Female,Bachelors,HR,12,Self-employed,Single,Wife,Black,121428
+24,Male,Bachelors,HR,5,Self-employed,Single,Husband,Black,121155
+45,Female,PhD,HR,6,Public,Married,Not-in-family,White,30281
+33,Male,Bachelors,Software Engineer,26,Public,Married,Own-child,White,57420
+58,Male,PhD,Software Engineer,22,Public,Single,Not-in-family,Black,110896
+46,Female,Masters,Manager,4,Private,Single,Wife,Asian-Pac-Islander,69030
+28,Female,PhD,Manager,19,Private,Single,Not-in-family,White,31058
+34,Female,PhD,HR,20,Self-employed,Single,Not-in-family,White,116213
+34,Male,Masters,HR,1,Private,Married,Own-child,White,106260
+45,Female,PhD,HR,20,Private,Single,Husband,Black,58404
+32,Male,Bachelors,Manager,17,Private,Married,Not-in-family,Black,133482
+51,Male,Bachelors,Data Analyst,12,Public,Married,Husband,Black,135284
+58,Male,PhD,Data Analyst,15,Public,Single,Wife,Black,59856
+51,Female,Bachelors,Manager,1,Self-employed,Married,Not-in-family,Asian-Pac-Islander,39200
+23,Female,PhD,Manager,26,Private,Married,Own-child,Asian-Pac-Islander,94178
+49,Male,Bachelors,Manager,14,Private,Married,Wife,Black,63997
+56,Male,Bachelors,Manager,6,Self-employed,Married,Wife,Asian-Pac-Islander,55611
+42,Female,PhD,Manager,5,Private,Single,Own-child,White,149273
+58,Male,Bachelors,Manager,11,Private,Single,Not-in-family,White,71235
+34,Female,PhD,HR,4,Public,Married,Not-in-family,White,147428
+48,Male,Bachelors,HR,13,Self-employed,Single,Wife,Black,65057
+55,Female,Bachelors,HR,11,Self-employed,Single,Not-in-family,White,31239
+32,Male,Masters,HR,3,Self-employed,Single,Husband,Asian-Pac-Islander,133674
+51,Female,Masters,Manager,1,Self-employed,Single,Own-child,Black,144474
+26,Male,PhD,Data Analyst,6,Public,Single,Husband,Asian-Pac-Islander,95661
+41,Female,Masters,Software Engineer,18,Public,Married,Not-in-family,White,75272
+47,Female,PhD,Manager,24,Private,Single,Wife,White,119393
+21,Male,Masters,Software Engineer,10,Private,Single,Own-child,White,91212
+25,Male,Bachelors,Data Analyst,5,Private,Single,Not-in-family,Black,45398
+47,Female,PhD,HR,23,Private,Single,Not-in-family,Asian-Pac-Islander,86503
+47,Male,PhD,Data Analyst,10,Public,Married,Wife,Black,36638
+39,Female,Bachelors,Manager,12,Self-employed,Married,Wife,Black,36570
+49,Male,PhD,HR,2,Public,Married,Husband,White,98785
+30,Female,PhD,Manager,13,Private,Married,Own-child,Black,39110
+47,Female,Masters,HR,8,Public,Single,Own-child,Black,135899
+44,Female,PhD,Software Engineer,2,Self-employed,Married,Wife,White,109141
+58,Female,Bachelors,Software Engineer,20,Self-employed,Single,Husband,Black,42115
+52,Female,Masters,Software Engineer,1,Public,Single,Own-child,White,69062
+20,Female,Masters,Data Analyst,5,Public,Single,Wife,White,52911
+46,Male,Bachelors,Manager,9,Public,Single,Not-in-family,White,134061
+32,Male,Bachelors,Data Analyst,17,Private,Single,Own-child,White,62556
+22,Male,Masters,Software Engineer,9,Public,Married,Husband,Black,108131
+58,Female,PhD,Manager,11,Public,Married,Husband,White,31969
+25,Female,Masters,Software Engineer,15,Public,Married,Husband,White,73753
+27,Female,Bachelors,Data Analyst,24,Self-employed,Married,Not-in-family,Black,112811
+46,Female,Masters,Data Analyst,6,Self-employed,Single,Own-child,Black,34470
+28,Male,Bachelors,Data Analyst,23,Private,Married,Own-child,Asian-Pac-Islander,40225
+56,Male,Masters,Software Engineer,3,Private,Single,Not-in-family,Black,137860
+52,Female,PhD,Manager,17,Self-employed,Married,Own-child,Black,137510
+43,Male,Masters,Manager,5,Self-employed,Single,Not-in-family,Asian-Pac-Islander,138295
+34,Male,Masters,Software Engineer,28,Self-employed,Single,Not-in-family,Black,53196
+51,Female,Bachelors,Manager,12,Public,Married,Not-in-family,Black,135823
+51,Male,Bachelors,Software Engineer,18,Public,Single,Husband,Black,43669
+43,Female,Bachelors,Manager,14,Self-employed,Single,Own-child,Black,67380
+31,Male,Masters,HR,21,Public,Married,Not-in-family,Asian-Pac-Islander,140677
+58,Female,PhD,HR,24,Public,Single,Own-child,Black,145886
+21,Female,Bachelors,Data Analyst,11,Private,Married,Husband,Black,78320
+22,Female,Bachelors,HR,9,Self-employed,Married,Not-in-family,Asian-Pac-Islander,77414
+56,Female,Masters,HR,2,Self-employed,Married,Wife,White,133542
+36,Male,Bachelors,HR,12,Public,Single,Husband,Asian-Pac-Islander,45577
+21,Female,PhD,Software Engineer,3,Self-employed,Single,Wife,White,118009
+21,Female,PhD,HR,3,Private,Single,Own-child,Asian-Pac-Islander,85409
+47,Female,Bachelors,HR,1,Private,Married,Own-child,Asian-Pac-Islander,58625
+42,Male,Bachelors,Data Analyst,8,Private,Single,Husband,Black,111040
+56,Female,Masters,HR,22,Self-employed,Married,Own-child,White,54089
+51,Male,PhD,HR,28,Self-employed,Married,Wife,Black,66487
+52,Female,PhD,Manager,29,Self-employed,Single,Not-in-family,White,95838
+20,Male,Bachelors,Data Analyst,8,Self-employed,Married,Not-in-family,Asian-Pac-Islander,126999
+38,Male,Masters,Data Analyst,11,Self-employed,Single,Not-in-family,Asian-Pac-Islander,140448
+21,Female,PhD,Data Analyst,9,Private,Single,Husband,White,124795
+45,Male,PhD,Data Analyst,5,Public,Single,Own-child,Black,80138
+51,Female,Masters,Data Analyst,14,Private,Single,Wife,Black,72823
+25,Female,Masters,Data Analyst,28,Self-employed,Single,Own-child,Black,67208
+51,Female,PhD,Software Engineer,3,Private,Married,Own-child,Black,84061
+23,Male,PhD,HR,21,Self-employed,Married,Own-child,Asian-Pac-Islander,60659
+30,Male,Masters,Data Analyst,5,Self-employed,Married,Not-in-family,Asian-Pac-Islander,131376
+36,Female,PhD,HR,5,Private,Single,Wife,Asian-Pac-Islander,61890
+57,Female,Bachelors,HR,19,Self-employed,Single,Wife,Asian-Pac-Islander,109134
+43,Male,Bachelors,Software Engineer,27,Public,Single,Own-child,Asian-Pac-Islander,77055
+24,Female,Masters,Data Analyst,14,Self-employed,Married,Not-in-family,Black,142269
+53,Female,Masters,Manager,26,Public,Single,Not-in-family,Black,49508
+25,Female,Masters,Software Engineer,4,Public,Married,Wife,Black,72287
+41,Male,Bachelors,Manager,25,Self-employed,Married,Not-in-family,Black,108916
+30,Male,PhD,HR,13,Private,Single,Not-in-family,Asian-Pac-Islander,56984
+35,Male,Bachelors,HR,10,Public,Single,Not-in-family,Asian-Pac-Islander,140169
+52,Female,PhD,Software Engineer,25,Private,Married,Husband,Asian-Pac-Islander,38125
+28,Female,Bachelors,Software Engineer,18,Public,Single,Own-child,White,66059
+25,Female,PhD,Manager,8,Self-employed,Married,Wife,Black,99569
+35,Male,Bachelors,Data Analyst,8,Self-employed,Single,Wife,Black,133409
+48,Female,Masters,Manager,7,Public,Single,Husband,Asian-Pac-Islander,47087
+22,Female,Bachelors,Software Engineer,8,Self-employed,Married,Own-child,Black,136437
+39,Female,PhD,Manager,14,Public,Single,Wife,Black,145262
+55,Female,Bachelors,Software Engineer,19,Self-employed,Married,Not-in-family,Asian-Pac-Islander,35704
+38,Male,Bachelors,Manager,29,Private,Single,Wife,White,90576
+45,Male,Bachelors,Software Engineer,6,Self-employed,Married,Not-in-family,White,103384
+22,Female,Masters,Software Engineer,1,Private,Married,Husband,White,117128
+38,Male,Bachelors,Software Engineer,23,Self-employed,Single,Not-in-family,Asian-Pac-Islander,141279
+39,Male,Masters,Data Analyst,15,Private,Married,Wife,Black,102460
+51,Female,Masters,Manager,1,Self-employed,Single,Wife,Asian-Pac-Islander,57208
+26,Female,Bachelors,Manager,25,Private,Single,Wife,Asian-Pac-Islander,148516
+52,Male,Bachelors,Manager,17,Public,Single,Husband,Black,115150
+59,Female,Bachelors,Software Engineer,1,Public,Married,Husband,White,96024
+58,Male,PhD,Manager,15,Private,Married,Own-child,White,69882
+37,Female,Bachelors,Manager,23,Self-employed,Single,Wife,Asian-Pac-Islander,55923
+59,Male,Masters,Software Engineer,2,Private,Single,Not-in-family,White,144044
+20,Female,Bachelors,HR,14,Self-employed,Married,Husband,Asian-Pac-Islander,131477
+30,Male,PhD,Software Engineer,21,Public,Single,Wife,Asian-Pac-Islander,59165
+47,Male,Bachelors,Manager,8,Self-employed,Single,Wife,Black,97203
+44,Male,PhD,Software Engineer,8,Public,Married,Husband,Black,121749
+42,Female,PhD,HR,19,Self-employed,Single,Own-child,Black,34114
+50,Male,Bachelors,Software Engineer,7,Self-employed,Married,Husband,Asian-Pac-Islander,94965
+49,Male,Masters,Manager,19,Self-employed,Single,Husband,Black,66321
+54,Female,PhD,HR,6,Private,Married,Not-in-family,White,103297
+26,Female,Bachelors,Data Analyst,6,Private,Single,Not-in-family,White,126652
+35,Male,Bachelors,Manager,3,Public,Single,Own-child,Asian-Pac-Islander,129304
+45,Male,Masters,HR,7,Public,Married,Wife,Asian-Pac-Islander,143942
+21,Female,PhD,HR,19,Private,Single,Husband,Black,55426
+20,Female,PhD,Data Analyst,8,Public,Married,Own-child,Asian-Pac-Islander,47772
+31,Female,Bachelors,Software Engineer,10,Private,Single,Not-in-family,Asian-Pac-Islander,133754
+24,Female,Bachelors,Software Engineer,20,Self-employed,Married,Husband,White,33712
+56,Female,Masters,Manager,15,Public,Married,Wife,White,31367
+51,Male,Masters,Data Analyst,15,Public,Married,Not-in-family,Black,136493
+28,Female,PhD,Software Engineer,29,Private,Married,Not-in-family,Asian-Pac-Islander,137317
+54,Male,PhD,Data Analyst,1,Public,Single,Not-in-family,Asian-Pac-Islander,145142
+38,Male,Bachelors,Software Engineer,20,Public,Single,Own-child,White,121736
+35,Male,PhD,HR,7,Self-employed,Married,Wife,Asian-Pac-Islander,81924
+22,Female,Masters,Software Engineer,27,Public,Married,Husband,White,33726
+39,Male,Masters,Data Analyst,4,Self-employed,Married,Own-child,Black,119152
+43,Male,Bachelors,HR,29,Private,Single,Own-child,White,57723
+52,Female,Masters,HR,6,Public,Single,Own-child,Asian-Pac-Islander,133110
+43,Male,Masters,HR,25,Self-employed,Single,Not-in-family,Black,130494
+30,Male,Masters,Data Analyst,1,Private,Single,Wife,White,39108
+27,Female,Masters,Manager,29,Public,Married,Own-child,White,107714
+55,Male,Bachelors,Manager,5,Private,Married,Husband,Black,65643
+57,Male,Bachelors,Manager,27,Public,Married,Wife,Black,61324
+59,Male,PhD,Data Analyst,23,Private,Single,Husband,White,133896
+39,Female,Masters,HR,1,Private,Single,Wife,Asian-Pac-Islander,113360
