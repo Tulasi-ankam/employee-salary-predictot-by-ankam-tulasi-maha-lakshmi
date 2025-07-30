@@ -1,3 +1,4 @@
+<img width="1600" height="2000" alt="model_evaluation_plots" src="https://github.com/user-attachments/assets/fdd97fe6-3a2c-4011-abef-7bebf8e7346b" />
 # employee-salary-predictot-by-ankam-tulasi-maha-lakshmi
 # Employee Salary Predictor
 
